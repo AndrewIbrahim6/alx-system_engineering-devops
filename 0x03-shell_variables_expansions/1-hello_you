@@ -1,2 +1,3 @@
-#!/bin/baih
+#!/bin/bash
 echo "hello $USER"
+
